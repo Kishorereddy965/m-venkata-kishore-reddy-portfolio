@@ -65,7 +65,7 @@ const About = () => {
                   <div className="w-full flex-1 overflow-hidden rounded-xl">
                     <img
                       src={stackImage}
-                      alt={personalInfo.name}
+                      alt="M Venkata Kishore Reddy — Python Full Stack Developer, TAP Academy student"
                       className="w-full h-full object-cover object-top"
                     />
                   </div>
